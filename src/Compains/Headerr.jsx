@@ -1,7 +1,6 @@
-import React from 'react'
 import Logo from '../assets/img/Logo.png'
 
-const Header = () => {
+const Headerr = () => {
   return (
     <div className='header'>
         <div className="content">
@@ -20,4 +19,4 @@ const Header = () => {
   )
 }
 
-export default Header
+export default Headerr
